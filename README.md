@@ -16,6 +16,17 @@ A full-stack AI application that analyzes your resume against a job description 
 - 🚀 **FastAPI Backend** — REST API with auto-generated Swagger docs at `/docs`
 
 ---
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](docs/homepage.png)
+
+### Matched vs Missing Skills
+![Skills Analysis](docs/result.png)
+
+### Match Score & Breakdown
+![Match Score](docs/scores.png)
+
 
 ## 🖥️ Demo
 
