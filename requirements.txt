@@ -1,0 +1,21 @@
+# Web framework
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# Resume parsing
+pdfplumber>=0.10.3
+python-docx>=1.1.0
+
+# NLP & similarity
+scikit-learn>=1.4.0
+sentence-transformers>=2.7.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.7.0
