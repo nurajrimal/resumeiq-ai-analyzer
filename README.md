@@ -1,6 +1,6 @@
 # 🎯 ResumeIQ — AI-Powered Resume Analyzer
 
-A full-stack AI application that analyzes your resume against a job description and gives you an instant match score, skill gap breakdown, and personalized improvement suggestions — powered by **LLaMA 3.3 (Groq) + FastAPI + React**.
+A full-stack AI application that analyzes your resume against a job description and gives you an instant match score, skill gap breakdown, and personalized improvement suggestions powered by **LLaMA 3.3 (Groq) + FastAPI + React**.
 
 > Built as a portfolio project demonstrating NLP, LLM integration, REST API design, and full-stack development.
 
