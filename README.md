@@ -24,7 +24,7 @@ A full-stack AI application that analyzes your resume against a job description 
 ### Matched vs Missing Skills
 ![Skills Analysis](docs/result.png)
 
-### Match Score & Breakdown
+### Suggestions & Breakdown
 ![Match Score](docs/scores.png)
 
 
